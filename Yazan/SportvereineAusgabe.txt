@@ -1,0 +1,14 @@
+Daten des Sportvereins
+Name des Sportverins: Vfl Bochum
+Ort des Sportverins: Bochum
+Anzahl Mitgleider 32000
+Anzahl ehemitglieder: 20000
+Sportarten: Fussball,Basketball
+
+Daten des Sportvereins
+Name des Sportverins: yazan
+Ort des Sportverins: ss
+Anzahl Mitgleider 333
+Anzahl ehemitglieder: 3
+Sportarten: ww
+
